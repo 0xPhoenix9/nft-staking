@@ -1,5 +1,7 @@
 # NFT Staking
 
+### Changed solana program
+
 This repo contains the [Anchor](https://github.com/project-serum/anchor) program that powers NFT staking rewards on [Solana](https://solana.com/). Users opt to lock up their NFTs with the protocol in exchange for periodic rewards in the form of a [Token](https://spl.solana.com/token) created exclusively for the purpose of rewarding NFT stakers.
 
 ### **Note**
